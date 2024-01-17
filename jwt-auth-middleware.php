@@ -1,4 +1,8 @@
+
+
 <?php
+
+// documentation: https://jwt-auth.readthedocs.io/en/develop/
 
 ///*********** START  FILE ASSIGNGUARD MIDDLEWARE CLASS  *******************
 namespace App\Http\Middleware;
